@@ -1,1 +1,0 @@
-<html><head><title>Prog Academy</title></head><body><h1><p>Question 1: yes = 1, no = 0</p><p>Question 2: yes = 1, no = 0</p></h1></body></html>
